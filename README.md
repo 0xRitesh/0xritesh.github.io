@@ -1,2 +1,2 @@
-# wordssaysalot.github.io]
-a minimalistic portfolio website
+# portfolio website
+
